@@ -83,6 +83,12 @@
     'opsz' 48
   }
 
+  @font-face {
+    font-family: "Isabelle Layne Bold";
+    src: url(IsabelleLayneBold.ttf);
+  }
+
+ 
  
   .content {
     display: cover;
